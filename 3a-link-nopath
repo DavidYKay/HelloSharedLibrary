@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc -L. -Wall -o test main.c -lfoo    
